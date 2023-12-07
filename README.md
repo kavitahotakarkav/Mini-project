@@ -1,2 +1,2 @@
-# Mini-project1
+# Mini-project
 This is my first get repository
